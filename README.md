@@ -1,7 +1,7 @@
 # android gpio口控制
 
-在程序运行之前用ndk-build编译一遍生成so文件。
+使用AndroidStudio最新版本自动生成jni接口
 
 
 
-![view](./Android_GPIO_DEMO.png)
+![view](./AndroidVersion.png)

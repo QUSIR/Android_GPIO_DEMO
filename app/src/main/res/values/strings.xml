@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">GPIO_DEMO</string>
-    <string name="initgpio">InitGPio</string>
-    <string name="getgpio">GetGpio</string>
-    <string name="setgpio">SetGpio</string>
+    <string name="app_name">My Application</string>
+    <string name="setgpio">setgpio</string>
 </resources>
